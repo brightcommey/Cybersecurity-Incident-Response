@@ -1,16 +1,1 @@
-📂 Cybersecurity-Incident-Response  
-├── 📄 README.md          # Overview of the DDoS case study  
-├── 📂 Identify  
-│   └── 📄 Firewall-Audit-Checklist.md  
-├── 📂 Protect  
-│   ├── 📄 rate_limit_icmp.sh  
-│   └── 📄 Network-Hardening-Guide.md  
-├── 📂 Detect  
-│   ├── 📄 icmp_flood_detector.py  
-│   └── 📂 screenshots  
-│       └── 📄 detection-dashboard.png  
-├── 📂 Respond  
-│   ├── 📄 IR-Playbook-DDoS.md  
-│   └── 📄 DDoS-Post-Mortem-2024.md  
-└── 📂 Recover  
-    └── 📄 DR-Checklist.md  
+
